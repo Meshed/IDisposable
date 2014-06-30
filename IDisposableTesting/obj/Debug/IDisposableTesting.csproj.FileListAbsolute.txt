@@ -1,0 +1,6 @@
+C:\workspace\IDisposableTesting\IDisposableTesting\bin\Debug\IDisposableTesting.exe.config
+C:\workspace\IDisposableTesting\IDisposableTesting\bin\Debug\IDisposableTesting.exe
+C:\workspace\IDisposableTesting\IDisposableTesting\bin\Debug\IDisposableTesting.pdb
+C:\workspace\IDisposableTesting\IDisposableTesting\obj\Debug\IDisposableTesting.csprojResolveAssemblyReference.cache
+C:\workspace\IDisposableTesting\IDisposableTesting\obj\Debug\IDisposableTesting.exe
+C:\workspace\IDisposableTesting\IDisposableTesting\obj\Debug\IDisposableTesting.pdb
